@@ -74,3 +74,5 @@ v2 = jh_results.evec[:, 1]
 #  [ 2.7055  3.8415  6.6349]]               # r <= 1 critical values
 # [[ 0.53474958  0.02398649]                # eigenvectors
 #  [-0.45169106  0.12036402]]
+
+# write down the rest of the code here
