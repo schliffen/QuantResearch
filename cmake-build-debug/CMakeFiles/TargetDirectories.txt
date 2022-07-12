@@ -1,0 +1,3 @@
+/home/ek/ResearchProjects/QuantResearch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ek/ResearchProjects/QuantResearch/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ek/ResearchProjects/QuantResearch/cmake-build-debug/CMakeFiles/QuantResearch.dir
